@@ -26,6 +26,7 @@ Full-Stack Developer | Portfolio: [melissx.github.io](https://melissx.github.io/
 
 
 ## Certifications
-**Front-End Developer Professional Certificate** | Coursera, Meta | January 2024,
-
+### Front-End
+**Front-End Developer Professional Certificate** | Coursera, Meta | January 2024
+### Backend
 **Back-End Developer Professional Certificate** | Coursera, Meta | January 2024
