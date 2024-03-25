@@ -1,5 +1,5 @@
 # Melissa Henry
-Full-Stack Developer | Portfolio: [melissx.github.io](https://melissx.github.io)
+Full-Stack Developer | Portfolio: [melissx.github.io](https://melissx.github.io/portfolio/)
 
 ## Skills
 - Programming Languages: Python, JavaScript, HTML, CSS 
