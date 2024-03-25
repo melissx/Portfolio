@@ -21,7 +21,7 @@ Full-Stack Developer | Portfolio: [melissx.github.io](https://melissx.github.io/
 
 **Inventory Management System** (https://github.com/melissx/Inventory-Management-System)
 - Python, Django 
-- Developed a inventory management system so businesses can track and manage their inventory.
+- Developed an inventory management system so businesses can track and manage their inventory.
 
 
 
