@@ -23,6 +23,10 @@ Full-Stack Developer | Portfolio: [melissx.github.io](https://melissx.github.io/
 - Python, Django 
 - Developed an inventory management system so businesses can track and manage their inventory.
 
+**Folder Cleanup Script**
+-Python
+-Developed a script to clean up messy folders on a PC.
+
 
 
 ## Certifications
