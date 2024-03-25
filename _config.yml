@@ -2,9 +2,9 @@ title: Melissa Henry
 
 description: Full-Stack Developer
 
-show_downloads: true 
+show_downloads: false
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
 
 plugins:
   - jekyll-seo-tag 
