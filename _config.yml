@@ -4,7 +4,7 @@ description: Full-Stack Developer
 
 show_downloads: true 
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 
 plugins:
   - jekyll-seo-tag 
