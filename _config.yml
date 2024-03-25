@@ -1,1 +1,12 @@
+title: =Melissa Henry
 
+description: Full-Stack Developer Portfolio
+
+show_downloads: true 
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag 
+
+email: mel.henry0406@gmail.com
