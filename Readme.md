@@ -25,10 +25,6 @@ Full-Stack Developer | Portfolio: [melissx.github.io](https://melissx.github.io/
 **Text Editor** (https://github.com/melissx/Text-Editor)
 - Leveraged Python to create a text editor capable of file creation, manipulation, and retrieval.
 
-
-
-
-
 ## Certifications
 ### Front-End
 **Front-End Developer Professional Certificate** | Coursera, Meta | January 2024
