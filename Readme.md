@@ -18,10 +18,9 @@ Full-Stack Developer | Portfolio: [melissx.github.io](https://melissx.github.io/
 **Inventory Management System** (https://github.com/melissx/Inventory-Management-System)
 - Built a Python-based Django application to streamline inventory management for businesses.
 
-**Meeting Scheduler App** ()
+**Meeting Scheduler App** (https://github.com/melissx/Meeting-Scheduler-App)
 - Developed a full-featured meeting scheduling application using JavaScript, React, and TypeScript.
 -- Users can create accounts, schedule meetings, and manage details like names, durations, dates, types, and meeting URLs.
-
 
 **Text Editor** (https://github.com/melissx/Text-Editor)
 - Leveraged Python to create a text editor capable of file creation, manipulation, and retrieval.
