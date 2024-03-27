@@ -9,7 +9,7 @@ Full-Stack Developer | Portfolio: [melissx.github.io](https://melissx.github.io/
 - Tools & Methods: Figma
 
 ## Projects
-**Little Lemon Restaurant** (https://github.com/melissx/Little-Lemon)
+**Little Lemon Restaurant** (https://github.com/melissx/Little-Lemon) (https://github.com/melissx/littlelemon)
 - Designed and built the web application for Little Lemon restaurant using React, JavaScript, CSS, HTML, and Figma.
 -- Created wireframes to plan the layout of the application.
 -- Developed the user interface for a user-friendly experience.
@@ -18,9 +18,10 @@ Full-Stack Developer | Portfolio: [melissx.github.io](https://melissx.github.io/
 **Inventory Management System** (https://github.com/melissx/Inventory-Management-System)
 - Built a Python-based Django application to streamline inventory management for businesses.
 
-**Meeting Scheduler App**
+**Meeting Scheduler App** ()
 - Developed a full-featured meeting scheduling application using JavaScript, React, and TypeScript.
 -- Users can create accounts, schedule meetings, and manage details like names, durations, dates, types, and meeting URLs.
+
 
 **Text Editor** (https://github.com/melissx/Text-Editor)
 - Leveraged Python to create a text editor capable of file creation, manipulation, and retrieval.
